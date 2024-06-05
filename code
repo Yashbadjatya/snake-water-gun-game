@@ -39,6 +39,6 @@ print(f"You chose {you} ")
 if a == None:
     print("the game is draw")
 elif a:
-    print("you win!")
+    print("you win!!")
 else :
-    print("you lose...")
+    print("you lose..." + "Better Luck next time")
